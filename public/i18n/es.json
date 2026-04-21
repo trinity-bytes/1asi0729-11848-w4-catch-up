@@ -1,0 +1,16 @@
+{
+  "app": {
+    "title": "Catch-Up News"
+  },
+  "sources": {
+    "title": "Fuentes de Noticias",
+    "description": "Selecciona una fuente de noticias para ver los últimos titulares."
+  },
+  "articles": {
+    "title": "Titulares Principales",
+    "description": "Aquí están los últimos artículos de noticias de tu fuente seleccionada."
+  },
+  "article": {
+    "readMore": "Leer más"
+  }
+}

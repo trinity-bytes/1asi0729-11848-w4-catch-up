@@ -1,0 +1,16 @@
+{
+  "app": {
+    "title": "Catch-Up News"
+  },
+  "sources": {
+    "title": "News Sources",
+    "description": "Select a news source to view the latest headlines."
+  },
+  "articles": {
+    "title": "Top Headlines",
+    "description": "Here are the latest news articles from your selected source."
+  },
+  "article": {
+    "readMore": "Read more"
+  }
+}
